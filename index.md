@@ -5,13 +5,11 @@ date: 24 de Noviembre de 2017
 output: revealjs::revealjs_presentation
 ---
 
-#
+# ![](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
-![](img/banner-fce.unrc-.jpg)
+# ![](img/banner-fce.unrc-.jpg)
 
-#
-
-![](img/banner-software-libre.jpg)
+# ![](img/banner-software-libre.jpg)
 
 Secretaría de Extensión y Asistencia Técnica
 
@@ -167,7 +165,7 @@ Comprar, tirar, comprar
 
 ![](img/led.jpg)
 
-# La familia unida.
+# La familia unida
 
 El conocimiento liberado de patentes, con apoyo del Estado y una academia conectada con las necesidades de la industria, puede facilitar el desarrollo tecnológico local.
 
@@ -187,7 +185,7 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 [Video de Richard Stallman para el FLISOL 2009](https://vimeo.com/4152803)
 
-[Chasqui (http://proyectochasqui.org)]
+[Chasqui](http://proyectochasqui.org)
 
 #
 
