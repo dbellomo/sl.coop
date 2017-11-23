@@ -5,8 +5,6 @@ date: 24 de Noviembre de 2017
 output: revealjs::revealjs_presentation
 ---
 
-# ![](https://licensebuttons.net/p/zero/1.0/88x31.png)
-
 # ![](img/banner-fce.unrc-.jpg)
 
 # ![](img/banner-software-libre.jpg)
