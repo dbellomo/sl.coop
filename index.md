@@ -181,7 +181,7 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 [El derecho a leer (Richard Stallman)](https://www.gnu.org/philosophy/right-to-read.es.html)
 
-[Software libre para una sociedad libre (Richard Stallman)](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
+[Software libre para una sociedad libre (RMS)](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
 
 [P/12: Tecnología nacional y desarrollo asociado](https://www.pagina12.com.ar/40391-la-familia-unida)
 
