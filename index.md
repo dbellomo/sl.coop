@@ -125,10 +125,9 @@ Licencias de software libre compatibles con la GPL
 
 ![](img/calc.png)
 
-# Kuden
+# 
 
 ![](img/kuden.png)
-
 
 # Chasqui
 
