@@ -21,7 +21,7 @@ Software No Libre
 
 # ¿Qué es el Software Libre?
 
-El Software Libre es aquel que respeta la libertad de las usuarias para ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo
+El Software Libre es aquel que respeta la libertad de las usuarias para ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo. Y la solidaridad social de tu comunidad.
 
 # ¿Qué es el movimiento del software libre?
 
@@ -55,6 +55,16 @@ La libertad de distribuir copias del programa, con lo cual se puede ayudar a otr
 # Modificar
 
 La libertad de mejorar el programa y hacer públicas esas mejoras para que toda la comunidad pueda beneficiarse de ellas
+
+#
+
+No es una distinción técnica sino ética, social y política, por lo tanto, más importante que cualquier distinción técnica
+
+# Dependencia vs desarrollo
+
+Usar un programa privativo es dependencia.
+
+Usar un programa libre es desarrollo.
 
 # Free Software. Software Libre (Libre ≠ gratis)
 
