@@ -60,6 +60,10 @@ La libertad de mejorar el programa y hacer públicas esas mejoras para que toda 
 
 El software libre es una cuestión de libertad, no de precio. Para entender el concepto, debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
 
+#
+
+![](img/compartir-es-bueno.jpg)
+
 # Copyleft
 
 [¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
@@ -130,6 +134,11 @@ Licencias de software libre compatibles con la GPL
 # Chasqui
 
 Chasqui es una herramienta multiplataforma de licencia libre que está especialmente diseñada para promover y gestionar la comercialización electrónica de productos de la Economía Social y Solidaria
+
+# ¿de quién es el conocimiento?
+
+![](img/office.jpg)
+
 
 # Estándares 
 
