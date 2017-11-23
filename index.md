@@ -185,6 +185,8 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 [P/12: Tecnología nacional y desarrollo asociado](https://www.pagina12.com.ar/40391-la-familia-unida)
 
+[Códigos Cooperativos](https://youtu.be/sMI1HA9mOmc)
+
 [Video de Richard Stallman para el FLISOL 2009](https://vimeo.com/4152803)
 
 [Chasqui](http://proyectochasqui.org)
