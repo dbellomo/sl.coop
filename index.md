@@ -125,6 +125,11 @@ Licencias de software libre compatibles con la GPL
 
 ![](img/calc.png)
 
+# Kuden
+
+![](img/kuden.png)
+
+
 # Chasqui
 
 Chasqui es una herramienta multiplataforma de licencia libre que está especialmente diseñada para promover y gestionar la comercialización electrónica de productos de la Economía Social y Solidaria
