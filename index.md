@@ -192,7 +192,7 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 # 
 
-![Mapa Conceptual](img/Mapa_conceptual_del_software_libre.jpg)
+![](img/Mapa_conceptual_del_software_libre.jpg)
 
 # Agradecimientos
 
