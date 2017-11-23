@@ -177,7 +177,7 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 # Agradecimientos
 
-# Bibliografía
+#
 
 [El derecho a leer (Richard Stallman)](https://www.gnu.org/philosophy/right-to-read.es.html)
 
@@ -188,6 +188,10 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 [Códigos Cooperativos](https://youtu.be/sMI1HA9mOmc)
 
 [Video de Richard Stallman para el FLISOL 2009](https://vimeo.com/4152803)
+
+[A qué le llamamos SL, por Beatriz Busaniche](https://youtu.be/h0tXtRRW564)
+
+[En el medio digital: Software Libre. Canal Encuentro](https://youtu.be/NrFbtRV-rOA)
 
 [Chasqui](http://proyectochasqui.org)
 
