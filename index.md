@@ -21,7 +21,7 @@ Software No Libre
 
 # ¿Qué es el Software Libre?
 
-El Software Libre es aquel que respeta la libertad de las usuarias para ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo. Y la solidaridad social de tu comunidad.
+El Software Libre es aquel que respeta la libertad de las usuarias para ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo; y la solidaridad social de tu comunidad
 
 # ¿Qué es el movimiento del software libre?
 
@@ -162,7 +162,7 @@ Crear un ambiente favorable para que el Software Libre pueda prosperar
 
 # Combatir la OBSOLESCENCIA PROGRAMADA
 
-una distro para cada requerimiento
+(casi) una distro para cada requerimiento
 
 # 
 
@@ -186,7 +186,7 @@ Comprar, tirar, comprar
 
 # La familia unida
 
-El conocimiento liberado de patentes, con apoyo del Estado y una academia conectada con las necesidades de la industria, puede facilitar el desarrollo tecnológico local.
+El conocimiento liberado de patentes, con apoyo del Estado y una academia conectada con las necesidades de la industria, puede facilitar el desarrollo tecnológico local
 
 # 
 
