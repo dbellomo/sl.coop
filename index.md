@@ -50,7 +50,7 @@ La libertad de estudiar cómo funciona el programa y modificarlo en relación a 
 
 # Copiar
 
-La libertad de distribuir copias del programa, con lo cual se puede ayudar a otros usuarios.
+La libertad de distribuir copias del programa, con lo cual se puede ayudar a otros usuarios
 
 # Modificar
 
