@@ -158,9 +158,7 @@ Crear un ambiente favorable para que el Software Libre pueda prosperar
 
 # Ética
 
-"El Software Libre no es un asunto técnico, es un asunto ético del
-uso de las tecnologías, porque el Software Libre respeta la libertad
-del usuario y la solidaridad social de su comunidad" RMS
+*"El Software Libre no es un asunto técnico, es un asunto ético del uso de las tecnologías, porque el Software Libre respeta la libertad del usuario y la solidaridad social de su comunidad"* RMS
 
 # Combatir la OBSOLESCENCIA PROGRAMADA
 
