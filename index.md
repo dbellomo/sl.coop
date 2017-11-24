@@ -58,13 +58,13 @@ La libertad de mejorar el programa y hacer públicas esas mejoras para que toda 
 
 #
 
-No es una distinción técnica sino ética, social y política, por lo tanto, más importante que cualquier distinción técnica
+No es una distinción técnica sino **ética, social y política**, por lo tanto, más importante que cualquier distinción técnica
 
 # Dependencia vs desarrollo
 
-Usar un programa privativo es dependencia.
+Usar un programa privativo es **dependencia**
 
-Usar un programa libre es desarrollo.
+Usar un programa libre es **desarrollo**
 
 # Free Software. Software Libre (Libre ≠ gratis)
 
