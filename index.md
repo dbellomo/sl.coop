@@ -7,6 +7,8 @@ output: revealjs::revealjs_presentation
 
 # ![](img/no-facebook.png)
 
+(antes de comenzar)
+
 # ![](img/banner-fce.unrc-.jpg)
 
 # ![](img/banner-software-libre.jpg)
