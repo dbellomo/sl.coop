@@ -70,7 +70,7 @@ Usar un programa privativo es **dependencia**
 
 Usar un programa libre es **desarrollo**
 
-# Free Software. Software Libre (Libre ≠ gratis)
+# Free Software </br> Software Libre </br> (Libre ≠ gratis)
 
 El software libre es una cuestión de libertad, no de precio. Para entender el concepto, debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
 
