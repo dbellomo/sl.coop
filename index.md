@@ -156,7 +156,7 @@ Chasqui es una herramienta multiplataforma de licencia libre que está especialm
 
 # Estándares 
 
-Consensuados, Libres y Abiertos Vs de facto
+Consensuados, Libres y Abiertos vs de facto
 
 Crear un ambiente favorable para que el Software Libre pueda prosperar
 
