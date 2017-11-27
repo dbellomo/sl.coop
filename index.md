@@ -160,6 +160,16 @@ Consensuados, Libres y Abiertos vs de facto
 
 Crear un ambiente favorable para que el Software Libre pueda prosperar
 
+# OpenDocument
+
+![](img/odf.jpg)
+
+Formato de Documento Abierto p/ Aplicaciones de Oficina (ODF)
+
+Std OASIS - Open Document Format for Office Applications -
+
+
+
 # Ética
 
 *"El Software Libre no es un asunto técnico, es un asunto ético del uso de las tecnologías, porque el Software Libre respeta la libertad del usuario y la solidaridad social de su comunidad"* RMS
