@@ -1,2 +1,2 @@
 all:
-	pandoc -s -i -t revealjs index.md -o index.html
+	pandoc -s -i -V theme=mozilla-devrel-dark -t revealjs index.md -o index.html
