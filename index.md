@@ -94,7 +94,10 @@ no como en «cerveza gratis»
 
 #
 
-![GNU es un sistema operativo de software libre, es decir, respeta la libertad de las usuarias](img/gnu-head.png)
+![](img/gnu-head.png)
+
+GNU es un sistema operativo de Software Libre,<br>
+es decir, respeta la libertad de las usuarias
 
 # Licencia GPL
 
@@ -102,7 +105,7 @@ no como en «cerveza gratis»
 
 # Licencias para software
 
-Licencias de software libre compatibles con la GPL
+Licencias de Software Libre compatibles con la GPL
 [https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
 
 # ¿Qué es Linux?
@@ -121,7 +124,7 @@ Licencias de software libre compatibles con la GPL
 
 ![](img/distros.jpg)
 
-# ¿Qué podemos hacer con SL?
+# ¿Qué podemos hacer con Software Libre?
 
 ![](img/gnu.jpg)
 
