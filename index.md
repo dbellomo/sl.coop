@@ -54,7 +54,7 @@ La libertad de estudiar cómo funciona el programa y modificarlo en relación a 
 
 # Copiar
 
-La libertad de distribuir copias del programa, con lo cual se puede ayudar a otros usuarios
+La libertad de distribuir copias del programa, con lo cual se puede ayudar a otras usuarias
 
 # Modificar
 
@@ -72,7 +72,9 @@ Usar un programa libre es **desarrollo**
 
 # Free Software </br> Software Libre </br> (Libre ≠ gratis)
 
-El software libre es una cuestión de libertad, no de precio. Para entender el concepto, debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
+El software libre es una cuestión de **libertad**, no de precio.<br>
+Debe pensarse en «libre» como en «libertad de expresión»,<br>
+no como en «cerveza gratis»
 
 #
 
@@ -90,7 +92,7 @@ El software libre es una cuestión de libertad, no de precio. Para entender el c
 
 #
 
-![GNU es un sistema operativo de software libre, es decir, respeta la libertad de los usuarios](img/gnu-head.png)
+![GNU es un sistema operativo de software libre, es decir, respeta la libertad de las usuarias](img/gnu-head.png)
 
 # Licencia GPL
 
