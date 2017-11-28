@@ -46,21 +46,23 @@ Respeta 4 libertades esenciales
 
 # Ejecutar
 
-La libertad de usar el programa, con cualquier propósito
+![](img/ejecutar.png)
 
 # Estudiar
 
-La libertad de estudiar cómo funciona el programa y modificarlo en relación a necesidades específicas
+![](img/estudiar.png)
 
 # Copiar
 
-La libertad de distribuir copias del programa, con lo cual se puede ayudar a otras usuarias
+![](img/copiar.png)
 
 # Modificar
 
-La libertad de mejorar el programa y hacer públicas esas mejoras para que toda la comunidad pueda beneficiarse de ellas
+![](img/modificar.png)
 
 #
+
+![](img/header-berni-correlatos.jpg)
 
 No es una distinción técnica sino **ética, social y política**, por lo tanto, más importante que cualquier distinción técnica
 
@@ -155,7 +157,6 @@ Chasqui es una herramienta multiplataforma de licencia libre que está especialm
 
 ![](img/office.jpg)
 
-
 # Estándares 
 
 Consensuados, Libres y Abiertos vs de facto
@@ -169,8 +170,6 @@ Crear un ambiente favorable para que el Software Libre pueda prosperar
 Formato de Documento Abierto p/ Aplicaciones de Oficina (ODF)
 
 Std OASIS - Open Document Format for Office Applications -
-
-
 
 # Ética
 
