@@ -206,6 +206,10 @@ Comprar, tirar, comprar
 
 El conocimiento liberado de patentes, con apoyo del Estado y una academia conectada con las necesidades de la industria, puede facilitar el desarrollo tecnológico local
 
+#
+
+![](img/manual.tec.abiertas.jpg)
+
 # 
 
 ![](img/Mapa_conceptual_del_software_libre.jpg)
@@ -227,6 +231,8 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 [A qué le llamamos SL, por Beatriz Busaniche](https://youtu.be/h0tXtRRW564)
 
 [En el medio digital: Software Libre. Canal Encuentro](https://youtu.be/NrFbtRV-rOA)
+
+[Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](http://www.economiasolidaria.org/bibliografia/manual_de_tecnologias_abiertas_para_la_gestion_de_organizaciones_de_la_economia_social_)
 
 [Chasqui](http://proyectochasqui.org)
 
