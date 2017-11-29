@@ -33,7 +33,7 @@ Promueve que las usuarias de computadoras obtengan la libertad que otorga el sof
 
 # Richard Stallman
 
-![](img/RMS_SL_esc.png)
+![](img/RMS.jpg)
 
 # Libertades
 
