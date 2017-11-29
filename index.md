@@ -94,7 +94,7 @@ no como en «cerveza gratis»
 
 #
 
-![](img/GNU_white.svg) 
+![](img/GNU_white.svg)
 
 GNU es un sistema operativo de Software Libre,<br>
 es decir, respeta la libertad de las usuarias
