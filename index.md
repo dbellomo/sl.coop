@@ -232,7 +232,7 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 [En el medio digital: Software Libre. Canal Encuentro](https://youtu.be/NrFbtRV-rOA)
 
-[Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](http://www.economiasolidaria.org/bibliografia/manual_de_tecnologias_abiertas_para_la_gestion_de_organizaciones_de_la_economia_social_)
+[Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
 
 [Chasqui](http://proyectochasqui.org)
 
