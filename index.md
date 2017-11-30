@@ -164,6 +164,14 @@ Chasqui es una herramienta multiplataforma de licencia libre que está especialm
 
 El Software Libre se convirtió en una forma de **producción y distribución del conocimiento** completamente diferente a la que genera la industria capitalista, proponiendo la libertad en el uso y apropiación del conocimiento
 
+# Valores y principios
+
+Valores y principios compartidos entre la Economía Social y Solidaria y la producción de Software Libre
+
+# Acceso
+
+El acceso al conocimiento y la tecnología favorece círculos virtuosos de transformación social
+
 # Estándares 
 
 Consensuados, Libres y Abiertos vs de facto
