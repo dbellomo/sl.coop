@@ -5,9 +5,7 @@ date: 24 de Noviembre de 2017
 output: revealjs::revealjs_presentation
 ---
 
-# ![](img/no-facebook.png)
-
-(antes de comenzar)
+# ![](img/nofoto.png)
 
 # ![](img/banner-fce.unrc-.jpg)
 
