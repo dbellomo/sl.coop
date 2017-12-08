@@ -236,6 +236,8 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 [Software libre para una sociedad libre (RMS)](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
 
+[Software Libre y Cultura Libre (por La Imilla Hacker)](https://eldesarmador.org/14-software-libre-y-cultura-libre.html)
+
 [P/12: Tecnología nacional y desarrollo asociado](https://www.pagina12.com.ar/40391-la-familia-unida)
 
 [Códigos Cooperativos](https://youtu.be/sMI1HA9mOmc)
