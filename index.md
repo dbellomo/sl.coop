@@ -96,7 +96,7 @@ no como en «cerveza gratis»
 
 ![](img/GNU_white.svg)
 
-GNU es un sistema operativo de Software Libre,<br>
+GNU es un sistema operativo de Software Libre,<BR>
 es decir, respeta la libertad de las usuarias
 
 # Licencia GPL
@@ -105,7 +105,8 @@ es decir, respeta la libertad de las usuarias
 
 # Carácter hereditario
 
-Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL
+Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL.<BR>
+Garantiza las 4 libertades esenciales
 
 # Licencias para software
 
