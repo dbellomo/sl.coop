@@ -90,6 +90,8 @@ no como en «cerveza gratis»
 
 ![](img/V3lIE.png)
 
+[El manifiesto de GNU](https://www.gnu.org/gnu/manifesto.es.html)
+
 #
 
 ![](img/GNU_white.svg)
@@ -100,6 +102,10 @@ es decir, respeta la libertad de las usuarias
 # Licencia GPL
 
 ![](img/gpl.png)
+
+# Carácter hereditario
+
+Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL
 
 # Licencias para software
 
