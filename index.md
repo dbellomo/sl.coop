@@ -129,8 +129,9 @@ es decir, respeta la libertad de las usuarias
 
 # Carácter hereditario
 
-Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL.<BR>
-Garantiza las 4 libertades esenciales
+![](img/DNA.jpg)
+
+Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL. Garantiza las 4 libertades esenciales
 
 # Licencias para software
 
