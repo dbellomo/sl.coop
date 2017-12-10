@@ -5,7 +5,9 @@ date: 24 de Noviembre de 2017
 output: revealjs::revealjs_presentation
 ---
 
-# ![](img/nofoto.png)
+# ![](img/semaforo_foto.png)
+
+preámbulo
 
 # ![](img/banner-fce.unrc-.jpg)
 
