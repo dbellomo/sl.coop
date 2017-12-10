@@ -189,6 +189,11 @@ Chasqui es una herramienta multiplataforma de licencia libre que está especialm
 
 ![](img/office.jpg)
 
+# Conocimiento
+
+* Bien Común
+* Colectivo
+
 #
 
 El Software Libre se convirtió en una forma de **producción y distribución del conocimiento** completamente diferente a la que genera la industria capitalista, proponiendo la libertad en el uso y apropiación del conocimiento
