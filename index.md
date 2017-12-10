@@ -86,6 +86,12 @@ no como en «cerveza gratis»
 
 #
 
+![](img/sinal.jpg)
+
+prohibido girar a la derecha
+
+#
+
 ![](img/compartir-es-bueno.jpg)
 
 # Copyleft
