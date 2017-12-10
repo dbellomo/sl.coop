@@ -11,9 +11,15 @@ preámbulo
 
 # ![](img/banner-fce.unrc-.jpg)
 
+institucional
+
 # ![](img/banner-software-libre.jpg)
 
 Secretaría de Extensión y Asistencia Técnica
+
+# parte 1
+
+Conceptos
 
 # ¿Qué es el Software?
 
@@ -100,6 +106,16 @@ no como en «cerveza gratis»
 
 GNU es un sistema operativo de Software Libre,<BR>
 es decir, respeta la libertad de las usuarias
+
+# Parte 2
+
+¿Qué hace Libre al Software Libre?
+
+# La licencia
+
+# ¿Donde está la licencia?
+
+![](img/licencia_vlc.png)
 
 # Licencia GPL
 
