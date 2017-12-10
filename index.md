@@ -84,7 +84,7 @@ El software libre es una cuestión de **libertad**, no de precio.<br>
 Debe pensarse en «libre» como en «libertad de expresión»,<br>
 no como en «cerveza gratis»
 
-#
+# Copyright
 
 ![](img/sinal.jpg)
 
@@ -96,9 +96,9 @@ prohibido girar a la derecha
 
 # Copyleft
 
-[¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
-
 ![](img/copyleft.jpg)
+
+[¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
 
 # ¿Qué es GNU?
 
