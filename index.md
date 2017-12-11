@@ -287,7 +287,9 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 ![](img/mapa_conceptual_del_software_libre.svg)
 
-# Agradecimientos
+# referencias
+
+videos, entrevistas, libros, notas
 
 #
 
@@ -310,6 +312,12 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 [Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
 
 [Chasqui](http://proyectochasqui.org)
+
+#
+
+![](img/keep-calm-and-hack-the-planet.jpg)
+
+# ¡Muchas Gracias!
 
 #
 
