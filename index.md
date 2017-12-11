@@ -138,6 +138,10 @@ Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a
 Licencias de Software Libre compatibles con la GPL
 [https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
 
+# Parte 3
+
+Programas
+
 # ¿Qué es Linux?
 
 ![](img/motor.jpg)
