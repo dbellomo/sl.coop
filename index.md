@@ -115,6 +115,8 @@ es decir, respeta la libertad de las usuarias
 
 # Parte 2
 
+![](img/javascript.jpg)
+
 ¿Qué hace Libre al Software Libre?
 
 # La licencia
@@ -190,14 +192,14 @@ Programas
 
 Chasqui es una herramienta multiplataforma de licencia libre que está especialmente diseñada para promover y gestionar la comercialización electrónica de productos de la Economía Social y Solidaria
 
-# ¿de quién es el conocimiento?
-
-![](img/office.jpg)
-
 # Conocimiento
 
 * Bien Común
 * Colectivo
+
+# ¿de quién es el conocimiento?
+
+![](img/office.jpg)
 
 #
 
