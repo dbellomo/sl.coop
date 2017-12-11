@@ -317,8 +317,9 @@ videos, entrevistas, libros, notas
 
 ![](img/keep-calm-and-hack-the-planet.jpg)
 
-# ¡Muchas Gracias!
-
 #
 
 ![](img/fsfs_icons_red-bg-es.png)
+
+**¡Muchas Gracias!**
+
