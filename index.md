@@ -1,7 +1,7 @@
 ---
 title: "Software Libre, Cooperativas y Economía Social"
-author: "Programa Amartya Sen <BR> FCE UNRC"
-date: 24 de Noviembre de 2017
+author: Daniel Bellomo
+date: Programa Amartya Sen<BR>FCE UNRC<BR>24 de Noviembre de 2017
 output: revealjs::revealjs_presentation
 ---
 
@@ -86,15 +86,23 @@ no como en «cerveza gratis»
 
 # Copyright
 
-![](img/sinal.jpg)
+![](img/copyright.svg)
 
-prohibido girar a la derecha
+#
+
+![](img/mikey.jpg)
 
 #
 
 ![](img/compartir-es-bueno.jpg)
 
 # Copyleft
+
+![](img/sinal.jpg)
+
+prohibido girar a la derecha
+
+#
 
 ![](img/copyleft.jpg)
 
@@ -141,6 +149,8 @@ Licencias de Software Libre compatibles con la GPL
 [https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
 
 # Parte 3
+
+![](img/programas.png)
 
 Programas
 
@@ -192,6 +202,26 @@ Programas
 
 Chasqui es una herramienta multiplataforma de licencia libre que está especialmente diseñada para promover y gestionar la comercialización electrónica de productos de la Economía Social y Solidaria
 
+# Estándares 
+
+Consensuados, Libres y Abiertos vs de facto
+
+Crear un ambiente favorable para que el Software Libre pueda prosperar
+
+# OpenDocument
+
+![](img/odf.jpg)
+
+Formato de Documento Abierto p/ Aplicaciones de Oficina (ODF)
+
+Std OASIS - Open Document Format for Office Applications -
+
+# Parte 4
+
+![](img/comunidad.jpg)
+
+La Comunidad
+
 # Conocimiento
 
 * Bien Común
@@ -216,20 +246,6 @@ Valores y principios compartidos entre la Economía Social y la producción de S
 # Acceso
 
 El acceso al conocimiento y la tecnología favorece círculos virtuosos de transformación social
-
-# Estándares 
-
-Consensuados, Libres y Abiertos vs de facto
-
-Crear un ambiente favorable para que el Software Libre pueda prosperar
-
-# OpenDocument
-
-![](img/odf.jpg)
-
-Formato de Documento Abierto p/ Aplicaciones de Oficina (ODF)
-
-Std OASIS - Open Document Format for Office Applications -
 
 # Ética
 
