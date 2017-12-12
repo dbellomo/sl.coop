@@ -23,11 +23,17 @@ Conceptos
 
 # ¿Qué es el Software?
 
+![](img/software.jpg)
+
 # Software Privativo
+
+![](img/jaula.jpg)
 
 Software No Libre
 
 # Software Libre
+
+![](img/oktubre.jpg)
 
 # ¿Qué es el Software Libre?
 
