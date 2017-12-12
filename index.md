@@ -129,8 +129,6 @@ es decir, respeta la libertad de las usuarias
 
 # La licencia
 
-# ¿Donde está la licencia?
-
 ![](img/licencia_vlc.png)
 
 # Licencia GPL
