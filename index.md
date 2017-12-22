@@ -112,6 +112,7 @@ prohibido girar a la derecha
 
 ![](img/copyleft.jpg)
 
+Método general para liberar un programa u otro tipo de trabajo, que requiere que todas las versiones modificadas y extendidas también sean libres  
 [¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
 
 # ¿Qué es GNU?
