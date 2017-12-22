@@ -90,6 +90,10 @@ El software libre es una cuestión de **libertad**, no de precio.<br>
 Debe pensarse en «libre» como en «libertad de expresión»,<br>
 no como en «cerveza gratis»
 
+# ¿izquierda o derecha?
+
+![](img/izq-der.jpg)
+
 # Copyright
 
 ![](img/copyright.svg)
