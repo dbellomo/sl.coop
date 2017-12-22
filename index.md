@@ -141,6 +141,9 @@ es decir, respeta la libertad de las usuarias
 
 ![](img/gpl.png)
 
+La licencia más ampliamente usada en el mundo del software libre  
+La 1ra diseñada específicamente para impedir la apropiación privada del software
+
 # Carácter hereditario
 
 ![](img/DNA.jpg)
