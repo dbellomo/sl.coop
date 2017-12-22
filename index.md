@@ -72,9 +72,9 @@ Respeta 4 libertades esenciales
 
 ![](img/modificar.png)
 
-#
+# 
 
-![](img/header-berni-correlatos.jpg)
+![](img/berni-manifestacion.jpg)
 
 No es una distinción técnica sino **ética, social y política**, por lo tanto, más importante que cualquier distinción técnica
 
