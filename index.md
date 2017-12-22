@@ -35,7 +35,7 @@ Software No Libre
 
 ![](img/oktubre.jpg)
 
-# ¿Qué es el Software Libre?
+# ¿Qué es el<br>Software Libre?
 
 El Software Libre es aquel que respeta la libertad de las usuarias para ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo; y la solidaridad social de tu comunidad
 
