@@ -49,12 +49,9 @@ Promueve que las usuarias de computadoras obtengan la libertad que otorga el sof
 
 # Libertades
 
-Respeta 4 libertades esenciales
+![](img/fsfs_icons_red-bg_es.png)
 
-* Ejecutar
-* Estudiar
-* Copiar
-* Modificar
+Respeta cuatro libertades esenciales
 
 # Ejecutar
 
@@ -327,11 +324,9 @@ videos, entrevistas, libros, notas
 
 #
 
-![](img/keep-calm-and-hack-the-planet.jpg)
+![](img/i-support-fs_red-bg_es.png)
 
-#
+# ¡Muchas Gracias!
 
-![](img/fsfs_icons_red-bg-es.png)
-
-**¡Muchas Gracias!**
+![](img/fsfs_red-bg_es.png)
 
