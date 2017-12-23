@@ -87,6 +87,10 @@ El software libre es una cuestión de **libertad**, no de precio.<br>
 Debe pensarse en «libre» como en «libertad de expresión»,<br>
 no como en «cerveza gratis»
 
+# Parte 2
+
+Derechos reservados
+
 # ¿izquierda o derecha?
 
 ![](img/izq-der.jpg)
@@ -129,7 +133,7 @@ Método general para liberar un programa u otro tipo de trabajo, que requiere qu
 GNU es un sistema operativo de Software Libre,<BR>
 es decir, respeta la libertad de las usuarias
 
-# Parte 2
+# Parte 3
 
 ![](img/javascript.jpg)
 
@@ -157,7 +161,7 @@ Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a
 Licencias de Software Libre compatibles con la GPL
 [https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
 
-# Parte 3
+# Parte 4
 
 ![](img/programas.png)
 
@@ -225,7 +229,7 @@ Formato de Documento Abierto p/ Aplicaciones de Oficina (ODF)
 
 Std OASIS - Open Document Format for Office Applications -
 
-# Parte 4
+# Parte 5
 
 ![](img/comunidad.jpg)
 
