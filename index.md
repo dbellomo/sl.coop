@@ -97,7 +97,7 @@ Derechos reservados
 
 # Copyright
 
-![](img/copyright.svg)
+![](img/copyright.jpg)
 
 #
 
