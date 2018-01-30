@@ -310,7 +310,7 @@ videos, entrevistas, libros, notas
 
 [Software libre para una sociedad libre (RMS)](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
 
-[Software Libre y Cultura Libre (por La Imilla Hacker)](https://eldesarmador.org/14-software-libre-y-cultura-libre.html)
+[Software Libre y Cultura Libre (La Imilla Hacker)](https://eldesarmador.org/14-software-libre-y-cultura-libre.html)
 
 [P/12: Tecnología nacional y desarrollo asociado](https://www.pagina12.com.ar/40391-la-familia-unida)
 
@@ -318,9 +318,9 @@ videos, entrevistas, libros, notas
 
 [Video de Richard Stallman para el FLISOL 2009](https://vimeo.com/4152803)
 
-[A qué le llamamos SL, por Beatriz Busaniche](https://youtu.be/h0tXtRRW564)
+[A qué le llamamos SL (Beatriz Busaniche)](https://youtu.be/h0tXtRRW564)
 
-[En el medio digital: Software Libre. Canal Encuentro](https://youtu.be/NrFbtRV-rOA)
+[En el medio digital: Software Libre (Canal Encuentro)](https://youtu.be/NrFbtRV-rOA)
 
 [Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
 
