@@ -324,7 +324,7 @@ videos, entrevistas, libros, notas
 
 [Manual de tecnologías abiertas para la gestión de organizaciones de la Economía Social y Solidaria](https://www.gcoop.coop/manual-tecnologias-abiertas)
 
-[Chasqui](http://proyectochasqui.org)
+[El Software Libre como herramienta](https://www.argentina.gob.ar/noticias/el-software-libre-como-herramienta) / [Chasqui](http://proyectochasqui.org)
 
 #
 
