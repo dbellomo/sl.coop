@@ -11,7 +11,7 @@ preámbulo
 
 # ![](img/not-fd.svg)
 
-preámbulo
+no trabajo para Face
 
 # ![](img/banner-fce.unrc-.jpg)
 
