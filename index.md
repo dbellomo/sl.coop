@@ -9,6 +9,10 @@ output: revealjs::revealjs_presentation
 
 preámbulo
 
+# ![](img/no-facebook-me.png)
+
+preámbulo
+
 # ![](img/banner-fce.unrc-.jpg)
 
 institucional
