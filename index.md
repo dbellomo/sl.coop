@@ -9,7 +9,7 @@ output: revealjs::revealjs_presentation
 
 preámbulo
 
-# ![](img/no-facebook-me.png)
+# ![](img/not-fd.svg)
 
 preámbulo
 
