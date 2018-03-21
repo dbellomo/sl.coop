@@ -1,7 +1,7 @@
 ---
 title: "Software Libre, Cooperativas y Economía Social"
 author: Daniel Bellomo
-date: Programa Amartya Sen<BR>FCE UNRC<BR>24 de Noviembre de 2017
+date: Programa de uso y difusión del Software Libre<BR>Secretaría de Extensión y Asistencia Técnica<BR>FCE UNRC<BR>24 de Noviembre de 2017
 output: revealjs::revealjs_presentation
 ---
 
