@@ -299,6 +299,12 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 ![](img/des.jpg)
 
+# anuncio
+
+Richard Stallman en Río Cuarto, 26 de mayo
+
+![](img/RMS.jpg)
+
 #
 
 ![](img/manual.tec.abiertas.jpg)
@@ -336,6 +342,7 @@ videos, entrevistas, libros, notas
 #
 
 ![](img/i-support-fs_red-bg_es.png)
+
 
 # ¡Muchas Gracias!
 
