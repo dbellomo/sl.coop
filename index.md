@@ -1,7 +1,7 @@
 ---
 title: "Software Libre para la Economía Social"
 author: Daniel Bellomo
-date: Programa de uso y difusión del Software Libre<BR>Secretaría de Extensión y Asistencia Técnica<BR>Facultad de Ciencias Económicas, UNRC<BR><BR>FLISOL Río Cuarto 2018
+date: Programa de uso y difusión del Software Libre<BR>Secretaría de Extensión y Asistencia Técnica<BR>Facultad de Ciencias Económicas, UNRC<BR> <BR>FLISOL Río Cuarto 2018
 output: revealjs::revealjs_presentation
 ---
 
