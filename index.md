@@ -299,6 +299,14 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 ![](img/des.jpg)
 
+# Seminario de la diplomatura
+
+Software libre y cooperativismo. Instrumentos para la democratización del conocimiento.
+
+Verónica Xhardez
+
+11 de junio
+
 # anuncio
 
 Richard Stallman en Río Cuarto, 26 de mayo
