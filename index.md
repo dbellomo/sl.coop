@@ -1,7 +1,7 @@
 ---
-title: "Software Libre, Cooperativas y Economía Social"
+title: "Software Libre para la Economía Social"
 author: Daniel Bellomo
-date: Programa de uso y difusión del Software Libre<BR>Secretaría de Extensión y Asistencia Técnica<BR>Facultad de Ciencias Económicas, UNRC<BR>24 de Noviembre de 2017
+date: Programa de uso y difusión del Software Libre<BR>Secretaría de Extensión y Asistencia Técnica<BR>Facultad de Ciencias Económicas, UNRC<BR><BR>FLISOL Río Cuarto 2018
 output: revealjs::revealjs_presentation
 ---
 
@@ -266,7 +266,7 @@ El acceso al conocimiento y la tecnología favorece círculos virtuosos de trans
 
 # Ética
 
-*"El Software Libre no es un asunto técnico, es un asunto ético del uso de las tecnologías, porque el Software Libre respeta la libertad del usuario y la solidaridad social de su comunidad"* RMS
+*"El Software Libre no es un asunto técnico, es un asunto ético del uso de las tecnologías, porque el Software Libre respeta la libertad de las usuarias y la solidaridad social de su comunidad"* RMS
 
 # Combatir la OBSOLESCENCIA PROGRAMADA
 
@@ -295,6 +295,10 @@ Comprar, tirar, comprar
 # La familia unida
 
 El conocimiento liberado de patentes, con apoyo del Estado y una academia conectada con las necesidades de la industria, puede facilitar el desarrollo tecnológico local
+
+#
+
+![](img/des.jpg)
 
 #
 
