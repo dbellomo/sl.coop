@@ -356,4 +356,4 @@ videos, entrevistas, libros, notas
 
 ![](img/fsfs_red-bg_es.png)
 
-https://dbellomo.github.io/sl.coop/
+https://dbellomo.github.io/sl.coop
