@@ -40,11 +40,29 @@ Software No Libre
 
 # ¿Qué es el<br>Software Libre?
 
-El Software Libre es aquel que respeta la libertad de las usuarias para ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo; y la solidaridad social de tu comunidad
+El Software Libre es aquel que respeta la libertad de las usuarias para **ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo**; y la solidaridad social de tu comunidad
+
+# ¿Quién tiene el control?
+
+![](img/control.jpg)
+
+¿quién controla el software?
+
+#
+
+![](img/usuarias.controlan.jpg)
+
+#
+
+![](img/usuarias.no.controlan.jpg)
+
+#
+
+El software libre permite que las usuarias ejerzan **el control** de sus propias tareas de computación
 
 # ¿Qué es el movimiento del software libre?
 
-Promueve que las usuarias de computadoras obtengan la libertad que otorga el software libre. El software libre permite que las usuarias ejerzan el control de sus propias tareas de computación
+Promueve que las usuarias de computadoras obtengan la libertad que otorga el software libre
 
 # Richard Stallman
 
