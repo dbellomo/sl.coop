@@ -38,10 +38,6 @@ Software No Libre
 
 ![](img/oktubre.jpg)
 
-# ¿Qué es el<br>Software Libre?
-
-El Software Libre es aquel que respeta la libertad de las usuarias para **ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo**; y la solidaridad social de tu comunidad
-
 # ¿Quién tiene el control?
 
 ![](img/control.jpg)
@@ -56,9 +52,9 @@ El Software Libre es aquel que respeta la libertad de las usuarias para **ejecut
 
 ![](img/usuarias.no.controlan.jpg)
 
-#
+# ¿Qué es el<br>Software Libre?
 
-El software libre permite que las usuarias ejerzan **el control** de sus propias tareas de computación
+El Software Libre es aquel que respeta la libertad de las usuarias para **ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo**; y la solidaridad social de tu comunidad. El software libre permite que las usuarias ejerzan **el control** de sus propias tareas de computación
 
 # ¿Qué es el movimiento del software libre?
 
