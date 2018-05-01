@@ -363,6 +363,10 @@ videos, entrevistas, libros, notas
 
 #
 
+![](img/gnu-linux-software-libre_big.jpg)
+
+#
+
 ![](img/i-support-fs_red-bg_es.png)
 
 
