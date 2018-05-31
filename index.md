@@ -1,6 +1,6 @@
 ---
 title: "Software Libre para la Economía Social"
-author: Daniel Bellomo<BR><BR>Programa de uso y difusión del Software Libre<BR>Secretaría de Extensión y Asistencia Técnica<BR>Facultad de Ciencias Económicas, UNRC<BR><BR>FLISOL Río Cuarto 2018
+author: Daniel Bellomo<BR><BR>Programa de uso y difusión del Software Libre<BR>Secretaría de Extensión y Asistencia Técnica<BR>Facultad de Ciencias Económicas, UNRC<BR><BR>Diplomatura en Economía Social y Desarrollo Local
 output: revealjs::revealjs_presentation
 ---
 
@@ -60,9 +60,11 @@ El Software Libre es aquel que respeta la libertad de las usuarias para **ejecut
 
 Promueve que las usuarias de computadoras obtengan la libertad que otorga el software libre.  El software libre permite que las usuarias ejerzan **el control** de sus propias tareas de computación
 
-# Richard Stallman
+#
 
 ![](img/RMS.jpg)
+
+Richard Stallman
 
 # Libertades
 
