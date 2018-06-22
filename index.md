@@ -202,6 +202,18 @@ Programas
 
 ![](img/distros.jpg)
 
+# Contrato social de Debian
+
+"Contrato social" con la comunidad de software libre
+
+* Debian permanecerá 100% libre
+* Contribuiremos a la comunidad de software libre
+* No ocultaremos los problemas
+* Nuestra prioridad son nuestros usuarios y el software libre
+* Trabajos que no siguen nuestros estándares de software libre
+
+https://www.debian.org/social_contract.es.html
+
 # ¿Qué podemos hacer con Software Libre?
 
 ![](img/gnu.jpg)
@@ -315,7 +327,7 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 ![](img/des.jpg)
 
-# Seminario de la diplomatura
+# Seminarios de la diplomatura
 
 Software libre y cooperativismo. Instrumentos para la democratización del conocimiento.
 
@@ -323,7 +335,7 @@ Verónica Xhardez
 
 11 de junio
 
-# anuncio
+# 
 
 Richard Stallman en Río Cuarto, 26 de mayo
 
