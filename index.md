@@ -341,7 +341,7 @@ https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf
 
 entrevista a Harvey
 
-https://youtu.be/ClLhioG7Vv8
+[https://youtu.be/ClLhioG7Vv8](https://youtu.be/ClLhioG7Vv8)
 
 # 
 
