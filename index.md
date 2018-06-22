@@ -331,13 +331,11 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 Software libre y cooperativismo. Instrumentos para la democratización del conocimiento.
 
-Verónica Xhardez
-
-11 de junio
+Verónica Xhardez, 11 de junio
 
 Presentación
 
-https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf
+[https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf]([https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf)
 
 entrevista a Harvey
 
