@@ -335,6 +335,14 @@ Verónica Xhardez
 
 11 de junio
 
+Presentación
+
+https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf
+
+entrevista a Harvey
+
+https://youtu.be/ClLhioG7Vv8
+
 # 
 
 Richard Stallman en Río Cuarto, 26 de mayo
@@ -383,8 +391,7 @@ videos, entrevistas, libros, notas
 
 ![](img/i-support-fs_red-bg_es.png)
 
-
-# ¡Muchas Gracias!
+#
 
 ![](img/fsfs_red-bg_es.png)
 
