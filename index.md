@@ -278,7 +278,7 @@ La Comunidad
 
 * ¿Cómo podemos asegurar sus derechos en el marco de un desarrollo humano y productivo que considere estos derechos como una de sus dimensiones?
 
-* El software que usamos como posicionamiento político
+* El software que usamos como posicionamiento **político**
 
 # Desnaturalización de lo dado como irreversible
 
