@@ -270,6 +270,21 @@ La Comunidad
 
 * Bien Común
 * Colectivo
+* Democratización del conocimiento
+
+# El tipo de software que usamos importa
+
+* ¿Qué acceso a la información y al conocimiento y la cultura construimos hoy para las generaciones futuras?
+
+* ¿Cómo podemos asegurar sus derechos en el marco de un desarrollo humano y productivo que considere estos derechos como una de sus dimensiones?
+
+* El software que usamos como posicionamiento político
+
+# Desnaturalización de lo dado como irreversible
+
+* Saber que podemos elegir el software que usamos
+* reflexionar críticamente sobre la forma productiva en la que nos organizamos
+* trabajar en favor de una transformación hacia un mejor mundo futuro
 
 # ¿de quién es el conocimiento?
 
@@ -335,7 +350,7 @@ Verónica Xhardez, 11 de junio
 
 Presentación
 
-[https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf]([https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf)
+[https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf](https://dbellomo.github.io/sl.coop/FCE.Verox.2018.pdf)
 
 entrevista a Harvey
 
@@ -361,7 +376,7 @@ videos, entrevistas, libros, notas
 
 #
 
-[El derecho a leer (Richard Stallman)](https://www.gnu.org/philosophy/right-to-read.es.html)
+[El derecho a leer (RMS)](https://www.gnu.org/philosophy/right-to-read.es.html) / [Pantallas, derechos, cultura](http://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Pantallas,%20derechos,%20cultura%20y%20conocimiento.pdf)
 
 [Software libre para una sociedad libre (RMS)](https://www.gnu.org/philosophy/fsfs/free_software.es.pdf)
 
