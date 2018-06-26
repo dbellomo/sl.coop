@@ -328,7 +328,9 @@ Comprar, tirar, comprar
 
 ![](img/wannacry.png)
 
-# Tecnología nacional y desarrollo asociado
+# Software libre: Soberanía e independencia tecnológica
+
+Tecnología nacional y desarrollo asociado
 
 #
 
