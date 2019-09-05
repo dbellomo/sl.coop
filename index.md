@@ -1,6 +1,6 @@
 ---
 title: "Software Libre para la Economía Social"
-author: Daniel Bellomo<BR><BR>Programa de uso y difusión del Software Libre<BR>Secretaría de Extensión y Asistencia Técnica<BR>Facultad de Ciencias Económicas, UNRC<BR><BR>Diplomatura en Economía Social y Desarrollo Local
+author: <br>Daniel Bellomo<BR><BR><BR>Facultad de Ciencias Económicas, UNRC<BR>Diplomatura en Economía Social y Desarrollo Local<br><p><img src="img/cc0.png"/></p>
 output: revealjs::revealjs_presentation
 ---
 
@@ -11,14 +11,6 @@ preámbulo
 # ![](img/not-fd.svg)
 
 no trabajo para Face
-
-# ![](img/banner-fce.unrc-.jpg)
-
-institucional
-
-# ![](img/banner-software-libre.jpg)
-
-Secretaría de Extensión y Asistencia Técnica
 
 # parte 1
 
@@ -88,7 +80,7 @@ Respeta cuatro libertades esenciales
 
 ![](img/modificar.png)
 
-# 
+#
 
 ![](img/berni-manifestacion.jpg)
 
@@ -136,7 +128,7 @@ prohibido girar a la derecha
 
 ![](img/copyleft.jpg)
 
-Método general para liberar un programa u otro tipo de trabajo, que requiere que todas las versiones modificadas y extendidas también sean libres  
+Método general para liberar un programa u otro tipo de trabajo, que requiere que todas las versiones modificadas y extendidas también sean libres
 [¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
 
 # ¿Qué es GNU?
@@ -166,7 +158,7 @@ es decir, respeta la libertad de las usuarias
 
 ![](img/gpl.png)
 
-La licencia más ampliamente usada en el mundo del software libre  
+La licencia más ampliamente usada en el mundo del software libre
 La 1ra diseñada específicamente para impedir la apropiación privada del software
 
 # Carácter hereditario
@@ -218,27 +210,27 @@ https://www.debian.org/social_contract.es.html
 
 ![](img/gnu.jpg)
 
-# 
+#
 
 ![](img/varios_sl.png)
 
-# 
+#
 
 ![](img/libreoffice.png)
 
-# 
+#
 
 ![](img/writer.png)
 
-# 
+#
 
 ![](img/press.png)
 
-# 
+#
 
 ![](img/calc.png)
 
-# 
+#
 
 ![](img/kuden.png)
 
@@ -246,7 +238,7 @@ https://www.debian.org/social_contract.es.html
 
 Chasqui es una herramienta multiplataforma de licencia libre que está especialmente diseñada para promover y gestionar la comercialización electrónica de productos de la Economía Social y Solidaria
 
-# Estándares 
+# Estándares
 
 Consensuados, Libres y Abiertos vs de facto
 
@@ -314,7 +306,7 @@ El acceso al conocimiento y la tecnología favorece círculos virtuosos de trans
 
 (casi) una distro para cada requerimiento
 
-# 
+#
 
 ![](img/old_pc.jpg)
 
@@ -358,7 +350,7 @@ entrevista a Harvey
 
 [https://youtu.be/ClLhioG7Vv8](https://youtu.be/ClLhioG7Vv8)
 
-# 
+#
 
 Richard Stallman en Río Cuarto, 26 de mayo
 
@@ -368,7 +360,7 @@ Richard Stallman en Río Cuarto, 26 de mayo
 
 ![](img/manual.tec.abiertas.jpg)
 
-# 
+#
 
 ![](img/mapa_conceptual_del_software_libre.svg)
 
